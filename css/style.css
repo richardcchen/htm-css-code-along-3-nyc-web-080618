@@ -49,3 +49,6 @@ figcaption {
 #logo h2 { /* selects <h1> if inside id="logo" */
   font-family: "Elsie Swash Caps", cursive;
 }
+
+/* Psuedo Selector */
+
