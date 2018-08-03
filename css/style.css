@@ -42,7 +42,7 @@ figcaption {
 
 /* Descendent Selector */
 #logo h1 { /* selects <h1> if inside id="logo" */
-  font-family: "Clicker-script", cursive;
+  font-family: "Clicker Script", cursive;
 }
 
 /* Descendent Selector */
