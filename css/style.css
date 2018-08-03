@@ -47,5 +47,5 @@ figcaption {
 
 /* Descendent Selector */
 #logo h2 { /* selects <h1> if inside id="logo" */
-  font-family: "Clicker-script", cursive;
+  font-family: "Elsie Swash Caps", cursive;
 }
