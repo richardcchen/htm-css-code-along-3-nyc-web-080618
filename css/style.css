@@ -51,4 +51,7 @@ figcaption {
 }
 
 /* Psuedo Selector */
+#details a:link, a:visited {
+  color: black;
+  text-decoration: none;
 
